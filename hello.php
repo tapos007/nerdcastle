@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo 'hello how r u';
+        echo 'gef';
         echo 'good boy';
         ?>
     </body>
